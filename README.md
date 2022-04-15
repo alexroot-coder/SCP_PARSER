@@ -1,2 +1,3 @@
 # SCP_PARSER
 SCP_PARSER
+use --help
