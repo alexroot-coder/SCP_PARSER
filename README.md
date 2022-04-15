@@ -1,5 +1,5 @@
 # SCP_PARSER  
-SCP_PARSER  http://scpfoundation.net/
+SCP_PARSER  http://scpfoundation.net/  
 INSTALL:  
 pip install -r requirements.txt  
 pip install pdfkit  
